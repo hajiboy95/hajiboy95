@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 ### 🔭 Current Projects
-I’m currently working on an app for the German and Austrian markets called **MediSwap**. The app helps medical students find accommodation during their obligatory internship, the "praktisches Jahr," and is available for download on both the [Android](https://play.google.com/store/apps/details?id=com.mediswap&hl=de) and [iOS](https://apps.apple.com/de/app/mediswap/id6502787356) stores in Germany and Austria. 📱
+I’m currently working on an app for the German and Austrian markets called **MediSwap**. The app helps medical students find accommodation during their obligatory internship, the "praktisches Jahr," and is available for download on both the [Android](https://play.google.com/store/apps/details?id=com.mediswap&hl=de) and [iOS](https://apps.apple.com/de/app/mediswap/id6502787356) stores in Germany and Austria. 
 
 I am responsible for full-stack development and business strategy, covering everything from technical IT challenges to business decisions.
 
