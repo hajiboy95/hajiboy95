@@ -3,8 +3,6 @@
 ### 🔭 Current Projects
 I’m currently working on an app for the German and Austrian markets called **MediSwap**. The app helps medical students find accommodation during their obligatory internship, the "praktisches Jahr," and is available for download on both the [Android](https://play.google.com/store/apps/details?id=com.mediswap&hl=de) and [iOS](https://apps.apple.com/de/app/mediswap/id6502787356) stores in Germany and Austria. 
 
-I am responsible for full-stack development and business strategy, covering everything from technical IT challenges to business decisions.
-
 I’m also deepening my knowledge in **AI** and **Data Engineering** at IU University in Germany. This program focuses on cloud computing, data engineering, and artificial intelligence.
 
 ### 💼 Professional Background
@@ -26,5 +24,5 @@ When I’m not working, you’ll likely find me:
 - Exploring **Japanese culture** and learning the language 🇯🇵
 - Staying up to date with **technology trends** 💻
 
-💬 Feel free to reach out if you'd like to chat about any of these topics!
+💬 Feel free to reach out if you'd like to chat about any of these topics!  
 📫 Contact me via [LinkedIn](https://www.linkedin.com/in/maikel-hajiabadi/) 🔗
