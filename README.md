@@ -7,6 +7,7 @@ I’m also deepening my knowledge in **AI** and **Data Engineering** at IU Unive
 
 ### 💼 Professional Background
 As a graduated M.Sc. in Mathematics, I had the chance to further enhance my skills through the following roles:
+- **Financial-Engineer** at **Finbridge** (01/2025 - present)
 - **Full-Stack & Business Developer** at **MediSwap** (01/2024 - present)
 - **Researcher** at **Anabrid GmbH**, working on quantum-inspired computing and analog computing projects (04/2022 - 12/2023)
 - **Researcher & Business Developer** at **ListenField**, focusing on predictive modeling and business automation (06/2021 - 03/2022)
