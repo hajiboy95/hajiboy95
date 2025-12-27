@@ -33,7 +33,6 @@ Outside of tech projects and professional work, I’m passionate about:
 - 💻 **Running my own home server** – where I self-host a variety of tools such as version control (Gitea), my own developed [OCR-LLM calendar sync model](https://github.com/hajiboy95/OCR_Calendar_Sync), a full DNS/DHCP stack via AdGuard, document management (Paperless), secure access via Tailscale VPN, and custom services routed through an NGINX reverse proxy  
 - 🇯🇵 **Japanese language & culture** – fascinated by the traditions, mindset, and language  
 - 🧠 **Exploring disruptive technologies** – especially where automation can reclaim time and energy for what really matters
-- 
 ---
 
 📫 **Let’s connect**:  
