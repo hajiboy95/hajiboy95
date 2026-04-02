@@ -1,11 +1,15 @@
 ## 👋 Hi there, I'm Maikel!
 
 ### 🔭 Current Projects
-One of my recent highlights is **[MediSwap](https://apps.apple.com/de/app/mediswap/id6502787356)** – a mobile app available on [iOS](https://apps.apple.com/de/app/mediswap/id6502787356) and [Android](https://play.google.com/store/apps/details?id=com.mediswap&hl=de), designed to help medical students in Germany and Austria find housing during their "Praktisches Jahr" (clinical internship).  
-I built and launched this platform from scratch, handling both the **technical implementation** and **business development**.
+One of my latest highlights is **[CVCanvas](https://cvcanvas.netlify.app/)** – a modular, ATS-optimized CV builder. It’s designed to eliminate formatting stress by ensuring even sleek, two-column layouts are 100% compatible with recruitment systems, allowing applicants to focus on their story instead of fighting with margins.
+
+I also continue to maintain **[MediSwap](https://apps.apple.com/de/app/mediswap/id6502787356)** – a mobile platform for medical students to find housing during their clinical internships, which I built and launched from scratch.
 
 ### 💼 Professional Background
 With an M.Sc. in Mathematics (1.0), I combine a strong analytical foundation with hands-on technical expertise. My career path reflects a passion for innovation, automation, and creating real-world impact through tech:
+
+- 📄 **Founder & Developer** @ **CVCanvas** (03/2026 – present)  
+  > Developed a modular CV builder that solves the "ATS vs. Design" conflict, ensuring high-end layouts remain fully machine-readable.
 
 - 🏦 **Financial Engineer** @ **Finbridge** (01/2025 – present)  
   > Building AI-driven solutions for financial institutions using ML, LLMs, and RAG to automate knowledge work.
