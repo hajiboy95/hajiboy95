@@ -4,7 +4,7 @@
 friendly, human software. Also Financial Engineer @ Finbridge, and an M.Sc.
 Mathematician (1.0) who likes turning hard problems into things that *just work*.
 
-> Planting kiwis for a richer world. 🥝
+> Planting Kiwis for a more conscious life. 🥝
 
 ### 🌳 KiwiCanopy — the studio
 
