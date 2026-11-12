@@ -17,6 +17,10 @@ open them, powerful once you're ready — no tutorials required to get started.
 - **[KiwiDesk](https://kiwidesk.kiwicanopy.com)** — a tiling window manager for
   macOS that arranges your windows for you. Mouse or keyboard, your call —
   quiet in the background and out of your way. 🥝
+- **[KiwiCall](https://kiwicall.kiwicanopy.com)** — a phone app for Android.
+  Don't let sudden calls interrupt your flow: plan calls like appointments and
+  get reminded when it's time, decline a call and plan the callback, and let it
+  keep dialing until someone answers.
 
 ### 🤝 Built to be contributed to
 
@@ -34,8 +38,8 @@ hands-on technical expertise — a path driven by innovation, automation, and
 real-world impact through tech:
 
 - 🌳 **Founder** @ **KiwiCanopy** (07/2026 – present)
-  > A small studio for friendly, human software — home to **KiwiDesk** and
-  > **KiwiCV**. Easy to start, powerful when you're ready.
+  > A small studio for friendly, human software — home to **KiwiDesk**,
+  > **KiwiCV** and **KiwiCall**. Easy to start, powerful when you're ready.
 
 - 📄 **Founder & Developer** @ **KiwiCV** (03/2026 – present)
   > A modular, ATS-optimized CV builder — launched as CVCanvas, renamed KiwiCV
