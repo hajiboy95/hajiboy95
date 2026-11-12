@@ -18,7 +18,7 @@ open them, powerful once you're ready — no tutorials required to get started.
   macOS that arranges your windows for you. Mouse or keyboard, your call —
   quiet in the background and out of your way. 🥝
 - **[KiwiCall](https://kiwicall.kiwicanopy.com)** — a phone app for Android.
-  Don't let sudden calls interrupt your flow: plan calls like appointments and
+  Sudden call? Call back when it suits you. Plan calls like appointments and
   get reminded when it's time, decline a call and plan the callback, and let it
   keep dialing until someone answers.
 
